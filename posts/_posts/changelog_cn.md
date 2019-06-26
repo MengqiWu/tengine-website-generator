@@ -1,7 +1,7 @@
 ## 变更列表
 
 #### Tengine-2.3.1 [2019-06-18]
-* Feature: stream ssl模块新增$ssl_handshakd_time变量 [mrpre]
+* Feature: stream ssl模块新增$ssl_handshake_time变量 [mrpre]
 * Feature: upstream check模块支持websocket健康检查 (mrpre)
 * Change: round robin负载均衡算法采用随机起点 (wangfakang)
 * Change: 升级http lua模块到v0.10.14 (mrpre)

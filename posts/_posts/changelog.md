@@ -1,7 +1,7 @@
 ## ChangeLog
 
 #### Tengine-2.3.1 [18 Jun 2019]
-* Feature: add $ssl_handshakd_time variable for stream ssl module (mrpre)
+* Feature: add $ssl_handshake_time variable for stream ssl module (mrpre)
 * Feature: support websocket check of upstream check module (mrpre)
 * Change: random index logical for round robin (wangfakang)
 * Change: update http lua module to v0.10.14 (mrpre)
