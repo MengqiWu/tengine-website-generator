@@ -34,7 +34,7 @@
 
 ## News
 
-*   [06/18/2018] [Tengine-2.3.1](download/tengine-2.3.1.tar.gz) development version released ([changes](changelog.html#2_3_1)).
+*   [06/26/2018] [Tengine-2.3.1](download/tengine-2.3.1.tar.gz) development version released ([changes](changelog.html#2_3_1)).
 *   [03/25/2018] [Tengine-2.3.0](download/tengine-2.3.0.tar.gz) development version released ([changes](changelog.html#2_3_0)).
 *   [11/11/2018] [Tengine-2.2.3](download/tengine-2.2.3.tar.gz) development version released ([changes](changelog.html#2_2_3)).
 *   [01/25/2018] [Tengine-2.2.2](download/tengine-2.2.2.tar.gz) development version released ([changes](changelog.html#2_2_2)).

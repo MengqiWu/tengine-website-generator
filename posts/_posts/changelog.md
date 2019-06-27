@@ -1,12 +1,12 @@
 ## ChangeLog
 
-#### Tengine-2.3.1 [18 Jun 2019]
-* Feature: add $ssl_handshake_time variable for stream ssl module (mrpre)
+#### Tengine-2.3.1 [26 Jun 2019]
+* Feature: added $ssl_handshake_time variable for stream ssl module (mrpre)
 * Feature: support websocket check of upstream check module (mrpre)
 * Change: random index logical for round robin (wangfakang)
-* Change: update http lua module to v0.10.14 (mrpre)
-* Change: update dyups to master branch of yzprofile/dyups (chobits)
-* Change: update core to Nginx-1.16.0 (MenqqiWu)
+* Change: updated http lua module to v0.10.14 (mrpre)
+* Change: updated dyups to master branch of yzprofile/dyups (chobits)
+* Change: updated core to Nginx-1.16.0 (MenqqiWu)
 * Change: support dynamic module for reqstatus (chobits)
 * Change: support dynamic build for upstream dynamic module (wangfakang)
 * Change: support dynamic build for trim module (wangfakang)
